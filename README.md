@@ -1,0 +1,1 @@
+這個檔案就是把原本EasyVtuber的requirements.txt裡面的版本號移掉
