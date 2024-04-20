@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+protobuf
+pynput
+mediapipe
+opencv_python
+Pillow
+pyanime4k
+pyvirtualcam
